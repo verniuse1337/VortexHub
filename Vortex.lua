@@ -1,4 +1,3 @@
--- Vortex Hub | v1 (Part 1/4)
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local UIS = game:GetService("UserInputService")
